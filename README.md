@@ -1,41 +1,40 @@
-# Farm Equipment Sales Analysis
+# 🚜 Farm Equipment Sales Analysis
 
-## Project Overview
-An interactive Power BI dashboard project analysing farm equipment sales, revenue, profit, product performance, customer segments, geographical performance and sales trends.
+### 🌾 Turning Agricultural Sales Data into Business Insights
 
-## Student Details
-- **Name:** Rakesh Choudhary
-- **Registration Number:** PIET24CD044
-- **Institute:** Poornima Institute of Engineering and Technology, Jaipur
-- **Programme:** B.Tech – Computer Science & Engineering (AI & DS)
+## 📊 Project Overview
 
-## Tools & Technologies
-- Microsoft Power BI
-- Power Query
-- DAX
-- CSV Dataset
+An interactive Power BI project analysing farm equipment sales, revenue, profitability, product performance and regional trends.
 
-## Project Objectives
-- Analyse total sales and revenue.
-- Evaluate gross profit and profit margins.
-- Identify highest and lowest performing products and brands.
-- Analyse monthly, quarterly and yearly sales trends.
-- Compare sales across states, cities and regions.
-- Analyse customer segments, campaigns and sales channels.
-- Build interactive KPI cards and visualisations.
+## 🛠️ Technologies Used
 
-## Dashboard Pages
-1. Sales Overview
-2. Revenue by Equipment Type
-3. Time & Growth Analysis
-4. Quantity Sold by Model
-5. Sales Channel, Payment & Order Analysis
-6. Geographic & KPI Analysis
+- 📊 Microsoft Power BI
+- 🧹 Power Query
+- 🧮 DAX
+- 📁 CSV Dataset
+- 🐙 GitHub
 
-## Dataset
-The project uses a CSV dataset containing order details, revenue, gross profit, quantity, equipment type, model, brand, customer segment, region, state, city, campaign and payment information.
+## 🚜 Dashboard Pages
 
-## Repository Structure
+1. 🏠 Sales Overview
+2. 🌾 Revenue by Equipment Type
+3. 📈 Time & Growth Analysis
+4. ⚙️ Quantity Sold by Model
+5. 💳 Sales Channel, Payment & Order Analysis
+6. 🗺️ Geographic & KPI Analysis
+
+## 🎯 Key Features
+
+- 💰 Revenue and profit analysis
+- 🏆 Top and bottom product identification
+- 📅 Monthly, quarterly and yearly sales trends
+- 🌍 State, city and regional comparisons
+- 👨‍🌾 Customer segment analysis
+- 🚜 Brand and equipment performance
+- 📊 Interactive KPI cards and visualisations
+
+## 📂 Repository Structure
+
 ```text
 Farm_Equipment_Sales_Analysis/
 ├── Dataset/
@@ -43,14 +42,32 @@ Farm_Equipment_Sales_Analysis/
 ├── PowerBI/
 │   └── Sales_Analysis.pbix
 ├── Screenshots/
-│   ├── dashboard.png
-│   ├── sales_analysis.png
-│   └── customer_analysis.png
 ├── Report/
 │   └── Project_Report.pdf
 ├── LICENSE
 └── README.md
 ```
 
-## Conclusion
-This project demonstrates the use of Power BI, Power Query and DAX to transform farm equipment sales data into interactive business insights and support data-driven decision-making.
+## 📈 Business Questions Answered
+
+- Which month had the highest sales?
+- Which product generated the highest revenue?
+- Which brand performed best?
+- Which region generated the highest profit?
+- Which customer segment contributed the most revenue?
+- Which states are performing below average?
+- Which products have high sales but low profit?
+
+## 👨‍💻 Developer
+
+**Rakesh Choudhary**
+
+🎓 B.Tech – Computer Science & Engineering (AI & DS)
+
+🏫 Poornima Institute of Engineering and Technology, Jaipur
+
+---
+
+### 🚜 Data | Agriculture | Analytics | Business Intelligence 📊
+
+⭐ If you find this project useful, consider giving this repository a star!
